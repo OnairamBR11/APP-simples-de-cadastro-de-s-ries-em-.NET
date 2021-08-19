@@ -1,0 +1,16 @@
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.AssemblyInfo.cs
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\bin\Debug\net5.0\MariFlix.Series.exe
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\bin\Debug\net5.0\MariFlix.Series.deps.json
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\bin\Debug\net5.0\MariFlix.Series.runtimeconfig.json
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\bin\Debug\net5.0\MariFlix.Series.runtimeconfig.dev.json
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\bin\Debug\net5.0\MariFlix.Series.dll
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\bin\Debug\net5.0\ref\MariFlix.Series.dll
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\bin\Debug\net5.0\MariFlix.Series.pdb
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.dll
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\ref\MariFlix.Series.dll
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.pdb
+C:\Users\maria\source\repos\MariFlix.Series\MariFlix.Series\obj\Debug\net5.0\MariFlix.Series.genruntimeconfig.cache
